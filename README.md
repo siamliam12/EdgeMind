@@ -146,4 +146,3 @@ If you’re reviewing this project and want a deeper walkthrough, I’d love to 
 
 ---
 
-If you want a version that looks more technical, more minimal, or more flashy, I can rewrite it in seconds.
