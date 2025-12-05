@@ -1,0 +1,24 @@
+{
+  "name": "edgemind",
+  "version": "1.0.0",
+  "description": "EdgeMind is an AI-powered personal knowledge and task assistant built entirely on **Cloudflare’s edge platform**.\r It combines Workers AI, Workflows, Durable Objects, and Realtime chat to deliver an intelligent assistant that can **remember**, **reason**, and **respond** instantly—without relying on traditional servers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siamliam12/EdgeMind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/siamliam12/EdgeMind/issues"
+  },
+  "homepage": "https://github.com/siamliam12/EdgeMind#readme",
+  "devDependencies": {
+    "wrangler": "^4.53.0"
+  }
+}
